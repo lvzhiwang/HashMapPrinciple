@@ -8,9 +8,9 @@ public class DNHashMap<K,V> implements DNMap<K, V> {
 	private static int defalultLength =16;//默认长度
 	
 	//负载因子,可以理解成警戒位置 
-	//16*0.75=12 ，默认情况时超过12后需要扩容  
+	//16*0.75=12 ，默认情况时超过12后需要扩容asas
 	//如不扩容  会造成效率低（采用链表的形式遍历）
-	//扩容的目的是为了快速的找到数据
+	//扩容的目的是/Library/Java/JavaVirtualMachines/为了快速的找到数据
 	private static double defaultLoader=0.75;
 	
 	
