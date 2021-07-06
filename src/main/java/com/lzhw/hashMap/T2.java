@@ -1,6 +1,5 @@
 package com.lzhw.hashMap;
-
-public class T3 {
+public class T2 {
 
 
     public void add(int i) {
