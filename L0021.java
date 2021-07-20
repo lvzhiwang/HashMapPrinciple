@@ -5,7 +5,6 @@ public class L0021 {
         int a = 1 / 0;
         String a1 = null;
         String b = a1.toString();
- int a2 = 1 / 0;
         String a21 = null;
     }
 
