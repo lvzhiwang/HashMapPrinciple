@@ -6,7 +6,6 @@ public class A0728 {
         String a1 = null;
         String b = a1.toString();
          int a3 = 1 / 0;
-
     }
 
 }
